@@ -1,2 +1,6 @@
-# https://jocular-frangipane-d08231.netlify.app
-create notes
+# notes
+
+
+
+
+# <a href="notes-app-creat.netlify.app/"> DIRECT LINK </a>
